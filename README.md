@@ -21,7 +21,7 @@ Adding Spectrecore to your app's `package.json`:
 
 ## Spectre adaptation
 
-SPectre core library provides primitives such as Transaction and UTXO
+Spectre core library provides primitives such as Transaction and UTXO
 data structures customized for use with the next-generation
 high-performance Spectre network.
 
